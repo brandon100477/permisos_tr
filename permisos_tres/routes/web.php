@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\SolicitudController;
+use App\Http\Controllers\AdController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,4 +16,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
-});
+    })->middleware('auth');
+
+    Route::controller(SolicitudController::class)->group(function(){
+        Route::post('/Login', 'login_inicio')->name('ruta_login');
+    });
