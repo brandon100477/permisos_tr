@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){document.querySelector("form"),document.querySelector("#button1").addEventListener("click",function(e){Swal.fire("¡Perfecto!","Registro actualizado con éxito","success").then(n=>{})})});

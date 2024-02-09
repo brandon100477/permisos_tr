@@ -1,0 +1,154 @@
+{
+  "public/img/fondo1.webp": {
+    "file": "assets/fondo1-d48bab37.webp",
+    "src": "public/img/fondo1.webp"
+  },
+  "public/img/fondo2.jpg": {
+    "file": "assets/fondo2-29abb5ce.jpg",
+    "src": "public/img/fondo2.jpg"
+  },
+  "public/img/principal.jpg": {
+    "file": "assets/principal-89bae6bd.jpg",
+    "src": "public/img/principal.jpg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/delete.css": {
+    "file": "assets/delete-2a32ccfc.css",
+    "isEntry": true,
+    "src": "resources/css/delete.css"
+  },
+  "resources/css/empleado/empleado.css": {
+    "file": "assets/empleado-d92950bc.css",
+    "isEntry": true,
+    "src": "resources/css/empleado/empleado.css"
+  },
+  "resources/css/empleado/nuevo_permiso.css": {
+    "file": "assets/nuevo_permiso-63f686e7.css",
+    "isEntry": true,
+    "src": "resources/css/empleado/nuevo_permiso.css"
+  },
+  "resources/css/empleado/registros.css": {
+    "file": "assets/registros-c5d584a3.css",
+    "isEntry": true,
+    "src": "resources/css/empleado/registros.css"
+  },
+  "resources/css/enable.css": {
+    "file": "assets/enable-9e73203f.css",
+    "isEntry": true,
+    "src": "resources/css/enable.css"
+  },
+  "resources/css/jefe/actualizar.css": {
+    "file": "assets/actualizar-74285276.css",
+    "isEntry": true,
+    "src": "resources/css/th/firmar.css"
+  },
+  "resources/css/jefe/jefe.css": {
+    "file": "assets/jefe-72cd3fc4.css",
+    "isEntry": true,
+    "src": "resources/css/jefe/jefe.css"
+  },
+  "resources/css/jefe/solicitud.css": {
+    "file": "assets/solicitud-6b6fdb86.css",
+    "isEntry": true,
+    "src": "resources/css/th/revisar.css"
+  },
+  "resources/css/jefe/solicitudes.css": {
+    "file": "assets/solicitudes-ea0ed7d8.css",
+    "isEntry": true,
+    "src": "resources/css/jefe/solicitudes.css"
+  },
+  "resources/css/login.css": {
+    "file": "assets/login-a87f59d0.css",
+    "isEntry": true,
+    "src": "resources/css/login.css"
+  },
+  "resources/css/prueba.css": {
+    "file": "assets/prueba-7f098e82.css",
+    "isEntry": true,
+    "src": "resources/css/prueba.css"
+  },
+  "resources/css/registrarse.css": {
+    "file": "assets/registrarse-c40434e5.css",
+    "isEntry": true,
+    "src": "resources/css/registrarse.css"
+  },
+  "resources/css/registrarse2.css": {
+    "file": "assets/registrarse2-e0850b75.css",
+    "isEntry": true,
+    "src": "resources/css/registrarse2.css"
+  },
+  "resources/css/th/archivo.css": {
+    "file": "assets/archivo-6663c921.css",
+    "isEntry": true,
+    "src": "resources/css/th/archivo.css"
+  },
+  "resources/css/th/firmar.css": {
+    "file": "assets/actualizar-74285276.css",
+    "isEntry": true,
+    "src": "resources/css/th/firmar.css"
+  },
+  "resources/css/th/principal.css": {
+    "file": "assets/principal-76ed1605.css",
+    "isEntry": true,
+    "src": "resources/css/th/principal.css"
+  },
+  "resources/css/th/revisar.css": {
+    "file": "assets/solicitud-6b6fdb86.css",
+    "isEntry": true,
+    "src": "resources/css/th/revisar.css"
+  },
+  "resources/css/view.css": {
+    "file": "assets/view-80a068e3.css",
+    "isEntry": true,
+    "src": "resources/css/view.css"
+  },
+  "resources/js/actualizar.js": {
+    "file": "assets/actualizar-208a3f78.js",
+    "isEntry": true,
+    "src": "resources/js/actualizar.js"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-6bb05423.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/archivo.js": {
+    "file": "assets/archivo-df1b29f0.js",
+    "isEntry": true,
+    "src": "resources/js/archivo.js"
+  },
+  "resources/js/delete.js": {
+    "file": "assets/delete-17971560.js",
+    "isEntry": true,
+    "src": "resources/js/delete.js"
+  },
+  "resources/js/enable.js": {
+    "file": "assets/enable-d2b431c2.js",
+    "isEntry": true,
+    "src": "resources/js/enable.js"
+  },
+  "resources/js/firmar.js": {
+    "file": "assets/firmar-ab28ba52.js",
+    "isEntry": true,
+    "src": "resources/js/firmar.js"
+  },
+  "resources/js/login.js": {
+    "file": "assets/login-581ed8ba.js",
+    "isEntry": true,
+    "src": "resources/js/login.js"
+  },
+  "resources/js/nuevo_permiso.js": {
+    "file": "assets/nuevo_permiso-71e00205.js",
+    "isEntry": true,
+    "src": "resources/js/nuevo_permiso.js"
+  },
+  "resources/js/registrarse.js": {
+    "file": "assets/registrarse-83063172.js",
+    "isEntry": true,
+    "src": "resources/js/registrarse.js"
+  }
+}

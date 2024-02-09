@@ -1,0 +1,1 @@
+async function n(){await Swal.fire("¡Perfecto!","Registro actualizado con éxito","success")}document.addEventListener("DOMContentLoaded",function(){const t=document.querySelector("form");t.addEventListener("submit",async function(e){e.preventDefault(),await n(),t.submit()})});
