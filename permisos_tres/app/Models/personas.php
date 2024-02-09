@@ -9,7 +9,7 @@ use Spatie\Permission\Traits\HasRoles;
 
 class personas extends Authenticatable
 {
-    protected $connection ="solicitud";
+    protected $connection ="prueba";
     protected $table ="usuario"; //nombre de la tabla
     protected $primaryKey = "id";
     protected $guard_name = 'web';

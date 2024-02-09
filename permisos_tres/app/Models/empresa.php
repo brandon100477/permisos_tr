@@ -10,7 +10,7 @@ use Spatie\Permission\Traits\HasRoles;
 
 class empresa extends  Authenticatable
 {
-    protected $connection ="solicitud";
+    protected $connection ="prueba";
     protected $table ="cargo"; //nombre de la tabla
     protected $primaryKey = "id";
     protected $guard_name = 'web';
