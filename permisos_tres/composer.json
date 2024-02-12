@@ -14,6 +14,7 @@
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
         "laravelcollective/html": "^6.4",
+        "livewire/livewire": "^2.12",
         "maatwebsite/excel": "3.1.*",
         "maennchen/zipstream-php": "2.2.6.*",
         "phpoffice/phpspreadsheet": "1.21.*",
