@@ -8,7 +8,8 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <title>Inicio de sesión</title>
-        @vite(['resources/css/login.css','resources/js/login.js'])
+        <link rel="stylesheet" href="{{asset('css/app.css')}}">
+        <script src="{{asset('js/app.js')}}"></script>
     </head>
     <body>
         <div class="wrapper">

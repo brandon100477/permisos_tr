@@ -7,6 +7,7 @@
       <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
       <link rel="icon" href="{{ asset('img/favicon.png')}}">
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+      <link rel="stylesheet" href="{{asset('css/prueba.css')}}">
       <title>Document</title>
       @vite(['resources/css/prueba.css'])
   </head>

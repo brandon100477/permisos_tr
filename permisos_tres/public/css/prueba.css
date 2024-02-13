@@ -1,0 +1,22 @@
+body {
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  color: #333;
+  text-align: center;
+  padding-top: 10%;
+ }
+ 
+ h1 {
+  font-size: 3em;
+  color: #f44336; /* Red */
+ }
+ 
+ h2 {
+  font-size: 2em;
+  color: #333;
+ }
+ 
+ h5 {
+  font-size: 1.2em;
+  color: #666;
+ }

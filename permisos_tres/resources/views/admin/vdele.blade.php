@@ -8,8 +8,8 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
-        @vite(['resources/css/enable.css', 'resources/js/enable.js'])
+        <script src="{{asset('js/enable.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('css/enable.css')}}">
     <title>Enable</title>
 </head>
 <body>

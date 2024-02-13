@@ -8,8 +8,8 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-
-        @vite(['resources/css/delete.css', 'resources/js/delete.js'])
+        <script src="{{asset('js/delete.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('css/delete.css')}}">
     <title>Delete</title>
 </head>
 <body>

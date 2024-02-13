@@ -8,8 +8,9 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="{{asset('js/nuevo_permiso.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('css/nuevo_permiso.css')}}">
         <title>Permisos</title>
-        @vite(['resources/css/empleado/nuevo_permiso.css', 'resources/js/nuevo_permiso.js'])
     </head>
     <body>
         <nav class="navbar" style="background-color: rgba(115,188,220,255);">

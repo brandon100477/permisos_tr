@@ -8,8 +8,9 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="{{asset('js/firmar.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('css/firmar.css')}}">
         <title>Permisos</title>
-        @vite(['resources/css/th/firmar.css', 'resources/js/firmar.js'])
     </head>
     <body>
         <nav class="navbar" style="background-color: rgba(115,188,220,255);">

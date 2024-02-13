@@ -8,8 +8,9 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <script src="{{asset('js/archivo.js')}}"></script>
+        <link rel="stylesheet" href="{{asset('css/archivo.css')}}">
         <title>Archivo</title>
-        @vite(['resources/css/th/archivo.css','resources/js/archivo.js'])
     </head>
     <body>
         <nav class="navbar" style="background-color: rgba(115,188,220,255);">
